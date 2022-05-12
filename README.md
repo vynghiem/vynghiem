@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vynghiem
-- 👀 I’m interested in database administration, iOS developing, and web design
-- 🌱 I’m currently learning Swift, JavaScript, Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data visualization, database administration, iOS developing, and web design.
+- 🌱 I’m currently learning AWS, Swift, JavaScript, and MERN
 - 📫 Here's how to reach me at https://www.linkedin.com/in/vynghiem/
 
 <!---
